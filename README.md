@@ -22,7 +22,7 @@ Reference evapotranspiration (ETo) reflects the presence of energy to evaporate 
 - <b>Windows 10</b>
 
 <h2>Data</h2>
-- The data used in this study includes daily meteorological data (Rainfall mm; Max temperature °C; Min temperature °C; Average temperature °C; Average humidity %; Sunshine duration hr; Average wind speed m/s). The data  was downloaded via access from ogimet or can be obtained through this link (https://www.ogimet.com).
+- The data used in this project includes daily meteorological data (Rainfall mm; Max temperature °C; Min temperature °C; Average temperature °C; Average humidity %; Sunshine duration hr; Average wind speed m/s). The data  was downloaded via access from ogimet or can be obtained through this link (https://www.ogimet.com).
 
 <h2>Program walk-through:</h2>
   
