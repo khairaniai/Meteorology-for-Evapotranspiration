@@ -9,7 +9,7 @@ Dr. Muh. Taufik
 <br/>
 
 <h2>Description</h2>
-The climate response to ENSO patterns is complex, causing variations in atmospheric mechanisms. Changes in evapotranspiration values can cause differences in the water balance of a region, especially in agricultural productivity. Reference evapotranspiration (ETo) reflects the presence of energy to evaporate water when there is sufficient water supply. The effects of ENSO in terms of uncertainties in extreme rainfall and increasing air temperature can influence vegetation dynamics and evapotranspiration processes. The approach to evapotranspiration values using the Penman-Monteith method can estimate evapotranspiration values that are close to actual values because this method is less sensitive to changes in temperature than other methods, so it focuses on thermodynamic processes (net radiation) and aerodynamics, which are the primary parameters for changes in evapotranspiration values.
+Reference evapotranspiration (ETo) reflects the presence of energy to evaporate water when there is sufficient water supply. The effects of ENSO in terms of uncertainties in extreme rainfall and increasing air temperature can influence vegetation dynamics and evapotranspiration processes. The approach to evapotranspiration values using the Penman-Monteith method can estimate evapotranspiration values that are close to actual values because this method is less sensitive to changes in temperature than other methods, so it focuses on thermodynamic processes (net radiation) and aerodynamics, which are the primary parameters for changes in evapotranspiration values.
 <br />
 
 <h2>Languages and Utilities Used</h2>
